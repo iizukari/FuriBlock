@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A093ADCC-7CF7-A071-A307-36EB3E55F320}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ball.cs">
+    <Files>
+      <File FileName="Assets/Ball.cs" Line="13" Column="6" />
+      <File FileName="Assets/Racket.cs" Line="15" Column="1" />
+      <File FileName="Assets/Block.cs" Line="12" Column="1" />
+      <File FileName="Assets/Manager.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FuriBlock" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Ball.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ad6de58-e96d-4ffa-9978-9c7bbfccef79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
